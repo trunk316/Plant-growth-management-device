@@ -1,2 +1,16 @@
-# Plant-growth-management-device
-高専3年　制作課題　Raspberry Pi,Raspberry Pi picoを使った植物育成管理デバイス
+# 植物育成管理デバイス（授業課題 / 個人開発）
+温度・湿度・土壌湿度を読み取り、育成の管理をお手伝いするデバイス
+
+## 🌐 動作の様子（※もし画像や動画があれば）
+
+
+## 🛠️ 使用技術・ハードウェア
+* **マイコンボード:** Raspberry Pi,Raspberry Pi pico
+* **開発環境:** thonny
+* **使用言語:** Python,Micro Python
+* **センサー類・アクチュエーター:**
+  * 土壌湿度センサー SEN0114
+  * 温湿度センサー DHT11
+  * リレー 型番不明
+  * Lcd モジュール Acm1062ni
+
